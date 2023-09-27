@@ -1,9 +1,6 @@
-# Analitica
+# Trabajo 01: Modelos de riesgo de crédito
 
- Trabajo 01: Modelos de riesgo de crédito
-
-
-#Integrantes
+*Integrantes*
 
 Camilo Andres Granada Mejia
 
