@@ -8,6 +8,8 @@ Integrantes
 Camilo Andres Granada Mejia
 Alejandro Zapata Quintero
 
+Importante: El archivo dataset.csv es el archivo original a trabajar, se le cambió el nombre debido a que el nombre original del archivo es ilegible para python
+
 Reporte:
 nota: el archivo .docx es autogenerado por la pagina, lo subi solo por si acaso
 
